@@ -1,0 +1,373 @@
+timestamp,canonical_id,store,raw_title,price
+2026-08-24,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,79322.66
+2026-08-25,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,81595.63
+2026-08-26,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,80451.92
+2026-08-27,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,81714.46
+2026-08-28,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,82996.36
+2026-08-29,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,82899.69
+2026-08-30,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,81844.0
+2026-08-31,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,81872.7
+2026-09-01,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,83843.65
+2026-09-02,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,82493.73
+2026-09-03,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,79398.35
+2026-09-04,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,78296.75
+2026-09-05,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,75528.98
+2026-09-06,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,74727.02
+2026-09-07,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,72435.97
+2026-09-08,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,71896.36
+2026-09-09,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,72368.85
+2026-09-10,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,72925.0
+2026-09-11,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,72927.83
+2026-09-12,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,70378.93
+2026-09-13,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,69756.61
+2026-09-14,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,70975.38
+2026-09-15,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,70823.31
+2026-09-16,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,71618.99
+2026-09-17,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,73045.96
+2026-09-18,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,72645.99
+2026-09-19,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,71537.03
+2026-09-20,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,71304.83
+2026-09-21,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,70788.29
+2026-09-22,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,71752.98
+2026-09-23,PROD_001,Store_A,Apple iPhone 15 (128 GB) - Black,73395.09
+2026-08-24,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,30142.38
+2026-08-25,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,29608.81
+2026-08-26,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,30416.88
+2026-08-27,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,29620.24
+2026-08-28,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,29235.45
+2026-08-29,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,28827.09
+2026-08-30,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,27985.79
+2026-08-31,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,28664.04
+2026-09-01,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,28796.97
+2026-09-02,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,27886.25
+2026-09-03,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,28433.52
+2026-09-04,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,27301.46
+2026-09-05,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,26329.73
+2026-09-06,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,26713.02
+2026-09-07,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,26454.68
+2026-09-08,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,27085.45
+2026-09-09,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,26466.16
+2026-09-10,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,27184.23
+2026-09-11,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,26457.74
+2026-09-12,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,25511.09
+2026-09-13,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,24652.99
+2026-09-14,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,23933.73
+2026-09-15,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,23748.96
+2026-09-16,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,23765.77
+2026-09-17,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,23937.15
+2026-09-18,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,23839.21
+2026-09-19,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,23857.51
+2026-09-20,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,23454.85
+2026-09-21,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,23741.78
+2026-09-22,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,24053.92
+2026-09-23,UNKNOWN,Store_A,Sony WH1000XM5 Noise Cancelling Over-Ear Headphones,24373.98
+2026-08-24,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,130943.69
+2026-08-25,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,126460.26
+2026-08-26,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,128282.75
+2026-08-27,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,130964.57
+2026-08-28,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,127183.82
+2026-08-29,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,123206.71
+2026-08-30,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,118455.27
+2026-08-31,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,118807.93
+2026-09-01,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,118757.8
+2026-09-02,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,120084.55
+2026-09-03,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,117743.22
+2026-09-04,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,113126.5
+2026-09-05,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,112206.22
+2026-09-06,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,114788.44
+2026-09-07,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,117924.88
+2026-09-08,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,121034.58
+2026-09-09,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,118148.89
+2026-09-10,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,114189.51
+2026-09-11,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,109882.68
+2026-09-12,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,110081.48
+2026-09-13,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,111015.31
+2026-09-14,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,109208.56
+2026-09-15,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,111139.48
+2026-09-16,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,109863.98
+2026-09-17,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,109277.67
+2026-09-18,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,110521.92
+2026-09-19,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,110224.07
+2026-09-20,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,109126.56
+2026-09-21,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,109761.09
+2026-09-22,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,111299.47
+2026-09-23,PROD_003,Store_A,Samsung Galaxy S24 Ultra 5G AI Smartphone 256GB,111266.81
+2026-08-24,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",101140.6
+2026-08-25,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",101040.9
+2026-08-26,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",100655.35
+2026-08-27,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",100522.35
+2026-08-28,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",99352.28
+2026-08-29,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",95626.1
+2026-08-30,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",94860.38
+2026-08-31,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",93412.4
+2026-09-01,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",95492.23
+2026-09-02,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",98168.89
+2026-09-03,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",96625.49
+2026-09-04,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",94467.11
+2026-09-05,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",94661.37
+2026-09-06,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",92228.8
+2026-09-07,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",89191.06
+2026-09-08,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",87690.67
+2026-09-09,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",86244.12
+2026-09-10,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",87495.11
+2026-09-11,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",84038.5
+2026-09-12,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",82326.47
+2026-09-13,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",81107.08
+2026-09-14,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",79834.41
+2026-09-15,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",80643.67
+2026-09-16,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",78060.24
+2026-09-17,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",78336.16
+2026-09-18,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",76257.39
+2026-09-19,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",77024.27
+2026-09-20,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",75216.66
+2026-09-21,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",74687.07
+2026-09-22,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",75545.46
+2026-09-23,PROD_004,Store_A,"Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch, 8GB RAM, 256GB SSD",75150.83
+2026-08-24,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",79943.09
+2026-08-25,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",79559.1
+2026-08-26,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",81463.91
+2026-08-27,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",80931.15
+2026-08-28,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",80977.54
+2026-08-29,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",82098.35
+2026-08-30,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",79842.45
+2026-08-31,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",80807.67
+2026-09-01,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",77953.0
+2026-09-02,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",75968.05
+2026-09-03,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",73553.4
+2026-09-04,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",71778.39
+2026-09-05,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",70422.2
+2026-09-06,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",72410.82
+2026-09-07,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",72459.46
+2026-09-08,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",69907.27
+2026-09-09,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",70790.39
+2026-09-10,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",70952.03
+2026-09-11,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",68319.17
+2026-09-12,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",66431.15
+2026-09-13,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",67949.18
+2026-09-14,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",68753.07
+2026-09-15,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",68898.93
+2026-09-16,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",67443.57
+2026-09-17,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",65823.57
+2026-09-18,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",66582.57
+2026-09-19,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",65455.86
+2026-09-20,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",64386.96
+2026-09-21,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",65609.6
+2026-09-22,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",67428.49
+2026-09-23,PROD_001,Store_B,"iPhone 15 (Black, 128 GB)",66426.52
+2026-08-24,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),28608.43
+2026-08-25,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),28865.8
+2026-08-26,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),27792.14
+2026-08-27,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),26719.29
+2026-08-28,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),26324.31
+2026-08-29,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),26971.78
+2026-08-30,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),27177.81
+2026-08-31,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),26125.47
+2026-09-01,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),25271.9
+2026-09-02,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),25022.89
+2026-09-03,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),24035.84
+2026-09-04,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),23829.35
+2026-09-05,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),23715.71
+2026-09-06,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),24055.11
+2026-09-07,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),24713.39
+2026-09-08,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),24567.55
+2026-09-09,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),24895.47
+2026-09-10,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),24863.32
+2026-09-11,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),25200.48
+2026-09-12,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),25489.01
+2026-09-13,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),25507.0
+2026-09-14,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),25267.39
+2026-09-15,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),24608.56
+2026-09-16,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),23681.88
+2026-09-17,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),24236.56
+2026-09-18,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),23408.9
+2026-09-19,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),23729.46
+2026-09-20,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),23186.17
+2026-09-21,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),23459.56
+2026-09-22,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),24065.12
+2026-09-23,UNKNOWN,Store_B,SONY WH-1000XM5 Bluetooth Headset (Black),23392.63
+2026-08-24,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",131745.91
+2026-08-25,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",133554.91
+2026-08-26,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",134718.93
+2026-08-27,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",129585.65
+2026-08-28,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",128539.93
+2026-08-29,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",124541.15
+2026-08-30,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",120269.33
+2026-08-31,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",116412.63
+2026-09-01,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",116386.78
+2026-09-02,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",118496.41
+2026-09-03,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",117869.09
+2026-09-04,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",115200.14
+2026-09-05,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",114044.43
+2026-09-06,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",114836.15
+2026-09-07,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",113221.3
+2026-09-08,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",112977.63
+2026-09-09,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",115395.09
+2026-09-10,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",113884.64
+2026-09-11,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",114320.21
+2026-09-12,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",115368.46
+2026-09-13,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",117083.5
+2026-09-14,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",117865.38
+2026-09-15,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",116353.7
+2026-09-16,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",119695.96
+2026-09-17,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",122049.99
+2026-09-18,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",122419.05
+2026-09-19,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",122133.37
+2026-09-20,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",120480.19
+2026-09-21,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",117003.34
+2026-09-22,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",119525.37
+2026-09-23,PROD_003,Store_B,"SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",116164.25
+2026-08-24,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),101322.18
+2026-08-25,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),102258.3
+2026-08-26,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),102544.3
+2026-08-27,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),103051.09
+2026-08-28,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),102706.41
+2026-08-29,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),98921.04
+2026-08-30,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),101611.22
+2026-08-31,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),104624.28
+2026-09-01,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),104007.06
+2026-09-02,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),101710.0
+2026-09-03,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),102717.96
+2026-09-04,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),99014.29
+2026-09-05,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),96145.83
+2026-09-06,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),96655.14
+2026-09-07,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),95922.93
+2026-09-08,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),92527.75
+2026-09-09,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),91148.76
+2026-09-10,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),91608.47
+2026-09-11,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),89524.6
+2026-09-12,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),88369.02
+2026-09-13,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),86273.49
+2026-09-14,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),88833.71
+2026-09-15,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),87814.44
+2026-09-16,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),90039.42
+2026-09-17,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),90345.64
+2026-09-18,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),89722.29
+2026-09-19,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),89333.12
+2026-09-20,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),87394.3
+2026-09-21,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),85393.26
+2026-09-22,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),87721.0
+2026-09-23,PROD_004,Store_B,Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS),88027.23
+2026-08-24,PROD_001,Store_C,Apple iPhone 15 128GB Blue,80580.1
+2026-08-25,PROD_001,Store_C,Apple iPhone 15 128GB Blue,80575.45
+2026-08-26,PROD_001,Store_C,Apple iPhone 15 128GB Blue,80651.42
+2026-08-27,PROD_001,Store_C,Apple iPhone 15 128GB Blue,80261.76
+2026-08-28,PROD_001,Store_C,Apple iPhone 15 128GB Blue,77610.31
+2026-08-29,PROD_001,Store_C,Apple iPhone 15 128GB Blue,79120.2
+2026-08-30,PROD_001,Store_C,Apple iPhone 15 128GB Blue,81260.29
+2026-08-31,PROD_001,Store_C,Apple iPhone 15 128GB Blue,78752.72
+2026-09-01,PROD_001,Store_C,Apple iPhone 15 128GB Blue,76249.69
+2026-09-02,PROD_001,Store_C,Apple iPhone 15 128GB Blue,74367.48
+2026-09-03,PROD_001,Store_C,Apple iPhone 15 128GB Blue,73267.04
+2026-09-04,PROD_001,Store_C,Apple iPhone 15 128GB Blue,70875.49
+2026-09-05,PROD_001,Store_C,Apple iPhone 15 128GB Blue,70497.0
+2026-09-06,PROD_001,Store_C,Apple iPhone 15 128GB Blue,68775.62
+2026-09-07,PROD_001,Store_C,Apple iPhone 15 128GB Blue,68380.0
+2026-09-08,PROD_001,Store_C,Apple iPhone 15 128GB Blue,69179.92
+2026-09-09,PROD_001,Store_C,Apple iPhone 15 128GB Blue,68911.84
+2026-09-10,PROD_001,Store_C,Apple iPhone 15 128GB Blue,69594.61
+2026-09-11,PROD_001,Store_C,Apple iPhone 15 128GB Blue,71008.88
+2026-09-12,PROD_001,Store_C,Apple iPhone 15 128GB Blue,72477.15
+2026-09-13,PROD_001,Store_C,Apple iPhone 15 128GB Blue,70905.96
+2026-09-14,PROD_001,Store_C,Apple iPhone 15 128GB Blue,68434.0
+2026-09-15,PROD_001,Store_C,Apple iPhone 15 128GB Blue,68760.26
+2026-09-16,PROD_001,Store_C,Apple iPhone 15 128GB Blue,67041.31
+2026-09-17,PROD_001,Store_C,Apple iPhone 15 128GB Blue,66611.79
+2026-09-18,PROD_001,Store_C,Apple iPhone 15 128GB Blue,65226.39
+2026-09-19,PROD_001,Store_C,Apple iPhone 15 128GB Blue,65491.25
+2026-09-20,PROD_001,Store_C,Apple iPhone 15 128GB Blue,63922.61
+2026-09-21,PROD_001,Store_C,Apple iPhone 15 128GB Blue,61385.15
+2026-09-22,PROD_001,Store_C,Apple iPhone 15 128GB Blue,62176.36
+2026-09-23,PROD_001,Store_C,Apple iPhone 15 128GB Blue,60323.21
+2026-08-24,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,28891.65
+2026-08-25,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,27849.14
+2026-08-26,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,27802.13
+2026-08-27,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,27883.75
+2026-08-28,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,28159.25
+2026-08-29,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,28395.82
+2026-08-30,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,29183.9
+2026-08-31,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,29611.91
+2026-09-01,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,29563.29
+2026-09-02,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,29766.54
+2026-09-03,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,28739.2
+2026-09-04,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,28160.6
+2026-09-05,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,27950.04
+2026-09-06,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,27538.66
+2026-09-07,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,26591.49
+2026-09-08,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,27181.47
+2026-09-09,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,26722.13
+2026-09-10,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,26923.01
+2026-09-11,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,26863.0
+2026-09-12,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,27111.47
+2026-09-13,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,27648.45
+2026-09-14,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,27547.78
+2026-09-15,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,27622.63
+2026-09-16,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,28020.89
+2026-09-17,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,27639.45
+2026-09-18,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,27690.87
+2026-09-19,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,28037.73
+2026-09-20,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,27872.34
+2026-09-21,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,27199.94
+2026-09-22,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,26568.58
+2026-09-23,PROD_002,Store_C,Sony WH-1000XM5 Over-Ear Active Noise Cancellation Headphones,27180.42
+2026-08-24,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,125230.33
+2026-08-25,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,126274.56
+2026-08-26,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,123031.08
+2026-08-27,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,123612.26
+2026-08-28,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,124514.46
+2026-08-29,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,120524.51
+2026-08-30,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,120628.72
+2026-08-31,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,123895.49
+2026-09-01,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,122785.83
+2026-09-02,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,122979.74
+2026-09-03,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,126374.47
+2026-09-04,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,126174.96
+2026-09-05,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,121782.5
+2026-09-06,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,118939.71
+2026-09-07,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,119737.83
+2026-09-08,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,123050.86
+2026-09-09,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,121175.84
+2026-09-10,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,123113.82
+2026-09-11,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,125875.72
+2026-09-12,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,121127.24
+2026-09-13,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,120040.32
+2026-09-14,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,122514.4
+2026-09-15,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,125929.37
+2026-09-16,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,128050.95
+2026-09-17,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,129597.51
+2026-09-18,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,125808.25
+2026-09-19,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,122221.3
+2026-09-20,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,125136.8
+2026-09-21,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,122554.6
+2026-09-22,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,122497.99
+2026-09-23,PROD_003,Store_C,Samsung S24 Ultra 5G 256GB ROM,119830.15
+2026-08-24,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,96799.86
+2026-08-25,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,95221.75
+2026-08-26,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,94557.45
+2026-08-27,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,94447.97
+2026-08-28,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,93869.3
+2026-08-29,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,93356.22
+2026-08-30,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,95245.6
+2026-08-31,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,95515.61
+2026-09-01,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,92046.38
+2026-09-02,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,92099.33
+2026-09-03,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,90850.19
+2026-09-04,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,91989.2
+2026-09-05,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,88535.3
+2026-09-06,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,90203.33
+2026-09-07,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,89107.92
+2026-09-08,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,87375.43
+2026-09-09,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,87102.01
+2026-09-10,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,84330.28
+2026-09-11,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,83452.32
+2026-09-12,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,82323.52
+2026-09-13,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,84717.13
+2026-09-14,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,82732.26
+2026-09-15,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,84582.04
+2026-09-16,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,85042.42
+2026-09-17,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,82045.45
+2026-09-18,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,80899.04
+2026-09-19,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,81435.58
+2026-09-20,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,80042.13
+2026-09-21,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,80413.83
+2026-09-22,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,79359.95
+2026-09-23,PROD_004,Store_C,MacBook Air M2 13.6 inch 8GB RAM 256GB Storage,77336.34
